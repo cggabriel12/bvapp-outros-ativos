@@ -59,7 +59,8 @@ Dez cenários documentados e rastreados, sem regras inventadas, cada um contendo
 - [x] Mini projeto local independente e plano documentado.
 - [x] Dez cenários redigidos em `functional_tests/`.
 - [x] Revisão estrutural dos dez arquivos e do índice.
-- [x] Repositório Git local iniciado e primeiro commit preparado.
-- [ ] Repositório GitHub de Carlos criado e conteúdo publicado.
-- [ ] Link público ou acessível ao professor conferido e enviado no Classroom.
+- [x] Repositório Git local iniciado e primeiro commit criado.
+- [x] Repositório GitHub de Carlos criado e conteúdo publicado em `main`.
+- [x] Link público conferido: https://github.com/cggabriel12/bvapp-outros-ativos.
+- [ ] Link enviado no Classroom.
 - [ ] Apresentação individual realizada.
